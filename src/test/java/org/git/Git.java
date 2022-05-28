@@ -20,6 +20,12 @@ public class Git {
 	private void yogesh() {
 		System.out.println("aete");
 	}
+	private void method1() {
+     System.out.println("method 1 vinoth");
+	}
+	private void method2() {
+    System.out.println("method 2 vinoth");
+	}
 	
 	
 	
