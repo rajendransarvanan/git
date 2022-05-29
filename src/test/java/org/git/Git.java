@@ -44,5 +44,14 @@ public class Git {
 	private void ironman() {
 		System.out.println("Ironman");
 	}
+	
+	private void Sasi() {
+		System.out.println("sasi");
+
+	}
+
+	private void kiran() {
+		System.out.println("kiran");
+	}
 
 }
