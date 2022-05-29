@@ -36,9 +36,22 @@ public class Git {
 
 	}
 
-	private void Dc() {
-		System.out.println("Dc");
+	private void ironman() {
+		System.out.println("ironman");
 
 	}
+	
+
+	private void Dc() {
+		System.out.println("Dc");
+	}
+		private void johnysins() {
+			System.out.println("johnysins");
+
+		}
+		private void captainamerica() {
+			System.out.println("captainamerica");
+
 
 }
+	}
