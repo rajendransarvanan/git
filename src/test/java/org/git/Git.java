@@ -41,4 +41,8 @@ public class Git {
 
 	}
 
+	private void ironman() {
+		System.out.println("Ironman");
+	}
+
 }
